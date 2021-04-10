@@ -32,7 +32,7 @@ a {
 
 
 .colour {
-  background: -webkit-linear-gradient(180deg, #00d39b, #4cb9c5);
+  background-color: #8B008B;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -51,7 +51,7 @@ html, head, body {
 
 /* line 11, /Users/dylanbahnan/Dropbox/Working/3-Portfolio/sinan.github.io/source/stylesheets/styles.sass */
 body {
-  background-image: linear-gradient(180deg, #00d39b, #4cb9c5);
+  background-color: #000000;
   background-repeat: no-repeat;
   padding: 13px;
   transition: padding 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55); }
